@@ -130,6 +130,7 @@ Out of 190 actual churn cases, 159 were correctly identified and only 31 were mi
 </p>
 
 ROC Curve shows an AUC of 0.9827 — the model is highly capable of distinguishing between churned and retained customers. The curve approaching the top-left corner indicates classification performance far above the random baseline (AUC = 0.5).
+
 ---
 
 ## Software Stack

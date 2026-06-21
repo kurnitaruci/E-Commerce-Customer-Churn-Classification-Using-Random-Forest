@@ -23,7 +23,7 @@ The model is trained on a publicly available e-commerce dataset and evaluated us
 
 ## Dataset
 
-- **Source**: Public dataset (Medium — E-Commerce Dataset)
+- **Source**: Public dataset (https://medium.com/ — E-Commerce Dataset)
 - **Total Records**: 5,630 customers
 - **Features**: 19 columns (before preprocessing)
 - **Target**: `Churn` (0 = Not Churn, 1 = Churn)

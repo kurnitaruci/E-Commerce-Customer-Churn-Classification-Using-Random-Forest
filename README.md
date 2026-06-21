@@ -23,7 +23,7 @@ The model is trained on a publicly available e-commerce dataset and evaluated us
 
 ## Dataset
 
-- **Source**: Public dataset (Kaggle — E-Commerce Dataset)
+- **Source**: Public dataset (Medium — E-Commerce Dataset)
 - **Total Records**: 5,630 customers
 - **Features**: 19 columns (before preprocessing)
 - **Target**: `Churn` (0 = Not Churn, 1 = Churn)
@@ -70,7 +70,6 @@ The model is trained on a publicly available e-commerce dataset and evaluated us
 
 ### 3. Train-Test Split
 - Used **stratified random split** (80% train / 20% test) to preserve class distribution across both sets
-- Churn rate: ~16.8% in both train and test sets
 
 ### 4. Model Training
 - Algorithm: **Random Forest Classifier**
